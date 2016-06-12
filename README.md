@@ -38,3 +38,6 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 
 ## Contact
 Nadim Bahadoor at http://allaboutscala.com/contact/
+
+## License
+Apache 2.0 License - see the LICENSE.TXT file 
