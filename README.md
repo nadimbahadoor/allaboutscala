@@ -35,7 +35,6 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [2: Scala String Interpolation – Print And Format Variables](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-string-interpolation-print-format-variables/)
 - [3: Scala – How To Escape Characters And Create Multi-line String](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-escape-characters-create-multi-line-string/)
 
-
 ## Contact
 Nadim Bahadoor at http://allaboutscala.com/contact/
 
