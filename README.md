@@ -34,6 +34,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [1: Scala Basic Tutorial – How To Declare Variables And Types](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-basic-tutorial-declare-variables-types/)
 - [2: Scala String Interpolation – Print And Format Variables](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-string-interpolation-print-format-variables/)
 - [3: Scala – How To Escape Characters And Create Multi-line String](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-escape-characters-create-multi-line-string/)
+- [4: An Overview Of Scala Type Inference](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-overview-scala-type-inference/)
 
 
 ## Contact
