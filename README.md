@@ -1,4 +1,4 @@
-# Source Code For Tutorials From www.allaboutscala.com
+# Source Code For Scala Tutorials From www.allaboutscala.com
 ## Introduction
 The Scala programming language is rapidly growing in popularity! Sadly, most of the online tutorials do not provide a step-by-step guide :(
  
@@ -35,6 +35,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [2: Scala String Interpolation – Print And Format Variables](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-string-interpolation-print-format-variables/)
 - [3: Scala – How To Escape Characters And Create Multi-line String](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-escape-characters-create-multi-line-string/)
 - [4: An Overview Of Scala Type Inference](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-overview-scala-type-inference/)
+- [5: How To Use If Else Statement And Expression](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-use-if-else-statement-expression/)
 
 ## Contact
 Nadim Bahadoor at http://allaboutscala.com/contact/
