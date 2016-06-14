@@ -36,6 +36,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [3: Scala – How To Escape Characters And Create Multi-line String](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-escape-characters-create-multi-line-string/)
 - [4: An Overview Of Scala Type Inference](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-overview-scala-type-inference/)
 - [5: How To Use If Else Statement And Expression](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-use-if-else-statement-expression/)
+- [6: Learn How To Use For Comprehension](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-use-for-comprehension/)
 
 ## Contact
 Nadim Bahadoor at http://allaboutscala.com/contact/
