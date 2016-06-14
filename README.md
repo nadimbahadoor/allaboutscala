@@ -38,6 +38,11 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [5: How To Use If Else Statement And Expression](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-use-if-else-statement-expression/)
 - [6: Learn How To Use For Comprehension](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-use-for-comprehension/)
 
+
+
+Stay in touch via [Facebook](http://www.facebook.com/allaboutscala) and [Twitter](https://twitter.com/NadimBahadoor) for upcoming tutorials!
+
+
 ## Contact
 Nadim Bahadoor at http://allaboutscala.com/contact/
 
