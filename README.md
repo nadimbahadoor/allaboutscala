@@ -38,6 +38,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [5: How To Use If Else Statement And Expression](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-use-if-else-statement-expression/)
 - [6: Learn How To Use For Comprehension](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-use-for-comprehension/)
 - [7: Learn How To Use Range](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-use-range-inclusive-exclusive/)
+- [8: Learn How To Use While And Do While Loop](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-how-to-use-while-and-do-while-loop/)
 
 
 
