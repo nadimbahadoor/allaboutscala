@@ -1,7 +1,7 @@
 package com.allaboutscala.chapter.two.tutorial_07
 
 /**
-  * Created by nbahadoor on 15/06/2016.
+  * Created by Nadim Bahadoor on 15/06/2016.
   *
   * Tutorial: Learn How To Use Range (Inclusive, Exclusive)
   *

@@ -1,7 +1,7 @@
 package com.allaboutscala.chapter.one.tutorial_04
 
 /**
-  * Created by nbahadoor on 01/05/2016.
+  * Created by Nadim Bahadoor on 01/05/2016.
   *
   * Tutorial: Your first Scala Hello World application
   *

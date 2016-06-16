@@ -1,7 +1,7 @@
 package com.allaboutscala.chapter.two.tutorial_06
 
 /**
-  * Created by nbahadoor on 14/06/2016.
+  * Created by Nadim Bahadoor on 14/06/2016.
   *
   * Tutorial: Learn How To Use For Comprehension
   *

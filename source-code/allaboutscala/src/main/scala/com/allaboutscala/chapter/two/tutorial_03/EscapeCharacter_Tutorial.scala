@@ -1,7 +1,7 @@
 package com.allaboutscala.chapter.two.tutorial_03
 
 /**
-  * Created by nbahadoor on 09/06/2016.
+  * Created by Nadim Bahadoor on 09/06/2016.
   *
   * Tutorial: Scala – How To Escape Characters And Create Multi-line String
   *

@@ -1,7 +1,7 @@
 package com.allaboutscala.chapter.one.tutorial_06
 
 /**
-  * Created by nbahadoor on 03/05/2016.
+  * Created by Nadim Bahadoor on 03/05/2016.
   *
   * Tutorial: IntelliJ Run Configuration – Running Your Scala application
   *

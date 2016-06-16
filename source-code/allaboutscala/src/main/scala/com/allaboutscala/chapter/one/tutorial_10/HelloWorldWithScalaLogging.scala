@@ -3,7 +3,7 @@ package com.allaboutscala.chapter.one.tutorial_10
 import com.typesafe.scalalogging.LazyLogging
 
 /**
-  * Created by nbahadoor on 06/05/2016.
+  * Created by Nadim Bahadoor on 06/05/2016.
   *
   * Tutorial: IntelliJ Import Dependencies – Getting Started With build.sbt
   *

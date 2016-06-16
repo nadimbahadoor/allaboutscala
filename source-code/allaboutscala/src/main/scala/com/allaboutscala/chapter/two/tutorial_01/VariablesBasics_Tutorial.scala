@@ -1,7 +1,7 @@
 package com.allaboutscala.chapter.two.tutorial_01
 
 /**
-  * Created by nbahadoor on 07/06/2016.
+  * Created by Nadim Bahadoor on 07/06/2016.
   *
   * Tutorial: Scala Basic Tutorial – How To Declare Variables And Types
   *

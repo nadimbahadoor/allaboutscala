@@ -1,7 +1,7 @@
 package com.allaboutscala.chapter.two.tutorial_04
 
 /**
-  * Created by nbahadoor on 10/06/2016.
+  * Created by Nadim Bahadoor on 10/06/2016.
   *
   * Tutorial: An Overview Of Scala Type Inference
   *

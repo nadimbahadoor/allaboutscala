@@ -1,7 +1,7 @@
 package com.allaboutscala.chapter.two.tutorial_02
 
 /**
-  * Created by nbahadoor on 08/06/2016.
+  * Created by Nadim Bahadoor on 08/06/2016.
   *
   * Tutorial: Scala String Interpolation – Print And Format Variables
   *

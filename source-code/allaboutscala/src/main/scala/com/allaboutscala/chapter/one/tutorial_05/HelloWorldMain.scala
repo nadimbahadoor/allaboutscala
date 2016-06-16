@@ -1,7 +1,7 @@
 package com.allaboutscala.chapter.one.tutorial_05
 
 /**
-  * Created by nbahadoor on 02/05/2016.
+  * Created by Nadim Bahadoor on 02/05/2016.
   *
   * Tutorial: Where is the main method to launch Scala application
   *

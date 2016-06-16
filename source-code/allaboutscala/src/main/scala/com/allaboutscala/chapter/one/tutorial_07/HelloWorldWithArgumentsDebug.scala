@@ -2,7 +2,7 @@ package com.allaboutscala.chapter.one.tutorial_07
 
 
 /**
-  * Created by nbahadoor on 05/05/2016.
+  * Created by Nadim Bahadoor on 05/05/2016.
   *
   * Tutorial: IntelliJ Debug Configuration – Debugging Your Scala Application
   *
