@@ -40,6 +40,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [7: Learn How To Use Range](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-use-range-inclusive-exclusive/)
 - [8: Learn How To Use While And Do While Loop](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-how-to-use-while-and-do-while-loop/)
 - [9: Learn How To Use Pattern Matching](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-how-to-use-pattern-matching/)
+- [10: Learn How To Use Tuples](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-how-to-use-tuples-pattern-match/)
 
 
 
