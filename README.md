@@ -42,6 +42,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [9: Learn How To Use Pattern Matching](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-how-to-use-pattern-matching/)
 - [10: Learn How To Use Tuples](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-how-to-use-tuples-pattern-match/)
 - [11: Learn How To Use Option – Avoid Null](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-use-option-avoid-null/)
+- [12: Learn The Scala Class And Type Hierarchy](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-scala-class-type-hierarchy/)
 
 
 
