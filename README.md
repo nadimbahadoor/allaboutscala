@@ -43,6 +43,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [10: Learn How To Use Tuples](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-how-to-use-tuples-pattern-match/)
 - [11: Learn How To Use Option – Avoid Null](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-use-option-avoid-null/)
 - [12: Learn The Scala Class And Type Hierarchy](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-scala-class-type-hierarchy/)
+- [13: Learn How To Create And Use Enumerations](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/learn-to-create-use-enumerations/)
 
 
 
