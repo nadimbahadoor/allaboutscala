@@ -45,6 +45,9 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [12: Learn The Scala Class And Type Hierarchy](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-scala-class-type-hierarchy/)
 - [13: Learn How To Create And Use Enumerations](http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/learn-to-create-use-enumerations/)
 
+### Chapter 3: Thinking In Terms Of Functions
+- [1: Learn How To Create And Use Functions](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-use-functions/)
+
 
 
 Stay in touch via [Facebook](http://www.facebook.com/allaboutscala) and [Twitter](https://twitter.com/NadimBahadoor) for upcoming tutorials!
