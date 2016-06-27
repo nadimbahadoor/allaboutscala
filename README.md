@@ -47,6 +47,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 
 ### Chapter 3: Thinking In Terms Of Functions
 - [1: Learn How To Create And Use Functions](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-use-functions/)
+- [2: Learn How To Create Function With Parameters](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-function-parameters/)
 
 
 
