@@ -49,6 +49,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [1: Learn How To Create And Use Functions](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-use-functions/)
 - [2: Learn How To Create Function With Parameters](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-function-parameters/)
 - [3: Learn How To Use Option In Function Parameters](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-use-option-function-parameters/)
+- [4: Learn How To Create Function With Option Return Type](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-function-return-type/)
 
 
 
