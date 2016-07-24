@@ -21,7 +21,7 @@ package com.allaboutscala.chapter.three
   * License for the specific language governing permissions and limitations under
   * the License.
   */
-object FunctionWithImplicitParameters extends App {
+object FunctionWithImplicitParameters_Tutorial extends App {
 
   println(s"Step 1: How to define a function with an implicit parameter")
   def totalCost(donutType: String, quantity: Int)(implicit discount: Double): Double = {
