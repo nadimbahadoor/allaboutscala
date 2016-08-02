@@ -54,6 +54,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [6: Learn How To Create Implicit Function](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-implicit-function/)
 - [7: Learn How To Create Typed Function](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-typed-function/)
 - [8: Learn How To Create Polymorphic Function With Generic Return Type](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-polymorphic-function-generic-return-type/)
+- [9: Learn How To Create Variable Argument Function](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-variable-argument-function/)
 
 
 
