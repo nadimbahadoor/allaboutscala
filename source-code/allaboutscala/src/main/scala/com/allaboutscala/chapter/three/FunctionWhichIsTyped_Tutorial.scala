@@ -21,7 +21,7 @@ package com.allaboutscala.chapter.three
   * License for the specific language governing permissions and limitations under
   * the License.
   */
-object FunctionWhichIsTyped extends App {
+object FunctionWhichIsTyped_Tutorial extends App {
 
 
   println("Step 1: How to define a function which takes a String parameter")

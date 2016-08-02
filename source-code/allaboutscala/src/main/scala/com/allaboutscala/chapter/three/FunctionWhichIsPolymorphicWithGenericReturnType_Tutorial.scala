@@ -21,7 +21,7 @@ package com.allaboutscala.chapter.three
   * License for the specific language governing permissions and limitations under
   * the License.
   */
-object FunctionWhichIsPolymorphicWithGenericReturnType extends App {
+object FunctionWhichIsPolymorphicWithGenericReturnType_Tutorial extends App {
 
   println("\nStep 1: Review how to define a generic typed function which will specify the type of its parameter")
   def applyDiscount[T](discount: T) {
