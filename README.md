@@ -58,7 +58,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [10: Learn How To Create Functions As Symbols](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-functions-symbols/)
 - [11: Learn How To Create Function Currying With Parameter Groups](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-create-function-currying-parameter-groups/)
 - [12: Learn How To Create Higher Order Function - Function As Parameter](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-higher-order-function-parameter/)
-- [13: Learn How To Create Call By Name Function](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-call-name-function/)
+- [13: Learn How To Create Higher Order Function - Call By Name Function](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-call-name-function/)
 
 
 
