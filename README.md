@@ -61,6 +61,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [13: Learn How To Create Higher Order Function - Call By Name Function](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-call-name-function/)
 - [14: Learn How To Create Higher Order Function - With Callback Parameter](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-function-callback-parameter/)
 - [15: Learn How To Create Function Using The Val Keyword Instead Of Def](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-val-function-val-vs-def/)
+- [16: Learn Function Composition Using AndThen](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-function-composition-andthen/)
 
 
 
