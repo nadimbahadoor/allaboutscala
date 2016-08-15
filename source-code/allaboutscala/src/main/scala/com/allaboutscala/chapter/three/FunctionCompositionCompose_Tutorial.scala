@@ -3,9 +3,9 @@ package com.allaboutscala.chapter.three
 /**
   * Created by Nadim Bahadoor on 28/06/2016.
   *
-  *  Tutorial: Learn Function Composition Using AndThen – f(x) andThen g(x)
+  *  Tutorial: Learn Function Composition Using Compose – f(x) compose g(x)
   *
-  * [[http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-function-composition-andthen/ Tutorial]]
+  * [[http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-function-composition-compose/ Tutorial]]
   *
   * Copyright 2016 Nadim Bahadoor (http://allaboutscala.com)
   *
@@ -21,8 +21,7 @@ package com.allaboutscala.chapter.three
   * License for the specific language governing permissions and limitations under
   * the
   */
-object FunctionCompositionAndThen_Tutorial extends App {
-
+object FunctionCompositionCompose_Tutorial extends App {
 
   println("Step 1: Assume a pre-calculated total cost amount")
   val totalCost: Double = 10
@@ -52,6 +51,7 @@ object FunctionCompositionAndThen_Tutorial extends App {
 
 
 
-  println("\nStep 5: How to call andThen on a val function")
-  println(s"Total cost of 5 donuts = ${ (applyDiscountValFunction andThen applyTaxValFunction)(totalCost) }")
+  println("\nStep 5: How to call compose on a val function")
+  println(s"Total cost of 5 donuts = ${ (applyDiscountValFunction compose applyTaxValFunction)(totalCost) }")
+
 }
