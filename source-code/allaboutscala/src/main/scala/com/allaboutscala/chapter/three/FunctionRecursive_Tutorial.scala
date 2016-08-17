@@ -19,7 +19,7 @@ package com.allaboutscala.chapter.three
   * distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
   * WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
   * License for the specific language governing permissions and limitations under
-  * the
+  * the License.
   */
 object FunctionRecursive_Tutorial extends App {
 
@@ -46,7 +46,7 @@ object FunctionRecursive_Tutorial extends App {
   println("\nStep 3: How to call a tail recursive function")
   val found = search("Glazed Donut", arrayDonuts, 0)
   println(s"Find Glazed Donut = $found")
-  
+
   val notFound = search("Chocolate Donut", arrayDonuts, 0)
   println(s"Find Chocolate Donut = $notFound")
 }
