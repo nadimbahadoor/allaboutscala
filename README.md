@@ -65,6 +65,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [17: Learn Function Composition Using Compose](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-function-composition-compose/)
 - [18: Learn How To Create Tail Recursive Function - @annotation.tailrec](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-tail-recursive-function-tailrec-annotation/)
 - [19: Learn How To Create Tail Recursive Function - scala.util.control.TailCalls._](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-tail-recursive-function-scala-control-util-tailcalls/)
+- [20: Learn How To Create Trampoline Tail Recursive Function Using scala.util.control.TailCalls._](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-trampoline-tail-recursive-function/)
 
 
 
