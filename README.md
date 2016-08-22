@@ -67,6 +67,26 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [19: Learn How To Create Tail Recursive Function - scala.util.control.TailCalls._](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-tail-recursive-function-scala-control-util-tailcalls/)
 - [20: Learn How To Create Trampoline Tail Recursive Function Using scala.util.control.TailCalls._](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-trampoline-tail-recursive-function/)
 - [21: Learn How To Create Partial Function Using the PartialFunction Trait](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-partial-function-trait/)
+ 
+
+### Chapter 4: Think you know Object Oriented using classes?
+coming soon...
+
+### Chapter 5: Dependency Injection reinvented using traits
+coming soon...
+
+### Chapter 6: Immutable Collection
+- [1: Learn How To Use Scala's Immutable List](http://allaboutscala.com/tutorials/chapter-6-beginner-tutorial-using-scala-immutable-collection/scala-tutorial-learn-use-immutable-list/)
+
+
+### Chapter 7: Mutable Collection
+coming soon...
+
+### Chapter 8: Collection Functions
+coming soon...
+
+### Chapter 9: Futures
+coming soon...
 
 
 
