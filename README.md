@@ -66,6 +66,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [18: Learn How To Create Tail Recursive Function - @annotation.tailrec](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-tail-recursive-function-tailrec-annotation/)
 - [19: Learn How To Create Tail Recursive Function - scala.util.control.TailCalls._](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-tail-recursive-function-scala-control-util-tailcalls/)
 - [20: Learn How To Create Trampoline Tail Recursive Function Using scala.util.control.TailCalls._](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-trampoline-tail-recursive-function/)
+- [21: Learn How To Create Partial Function Using the PartialFunction Trait](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-partial-function-trait/)
 
 
 
