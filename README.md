@@ -71,7 +71,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
  
 
 ### Chapter 4: Think you know Object Oriented using classes?
-coming soon...
+- [1: Learn How To Create Classes And Objects In Scala](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-classes-scala/scala-tutorial-learn-create-classes-objects/)
 
 ### Chapter 5: Dependency Injection reinvented using traits
 coming soon...
@@ -79,6 +79,7 @@ coming soon...
 ### Chapter 6: Immutable Collection
 - [1: Learn How To Use Scala's Immutable List](http://allaboutscala.com/tutorials/chapter-6-beginner-tutorial-using-scala-immutable-collection/scala-tutorial-learn-use-immutable-list/)
 - [2: Learn How To Use Scala's Immutable ListSet](http://allaboutscala.com/tutorials/chapter-6-beginner-tutorial-using-scala-immutable-collection/scala-tutorial-learn-use-immutable-listset/)
+- [3: Learn How To Use Scala's Immutable ListMap](http://allaboutscala.com/tutorials/chapter-6-beginner-tutorial-using-scala-immutable-collection/scala-tutorial-learn-use-immutable-listmap/)
 
 
 ### Chapter 7: Mutable Collection
