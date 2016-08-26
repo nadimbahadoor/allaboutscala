@@ -84,6 +84,7 @@ coming soon...
 - [2: Learn How To Use Scala's Immutable ListSet](http://allaboutscala.com/tutorials/chapter-6-beginner-tutorial-using-scala-immutable-collection/scala-tutorial-learn-use-immutable-listset/)
 - [3: Learn How To Use Scala's Immutable ListMap](http://allaboutscala.com/tutorials/chapter-6-beginner-tutorial-using-scala-immutable-collection/scala-tutorial-learn-use-immutable-listmap/)
 - [4: Learn How To Use Scala's Immutable Map](http://allaboutscala.com/tutorials/chapter-6-beginner-tutorial-using-scala-immutable-collection/scala-tutorial-learn-use-immutable-map/)
+- [5: Learn How To Use Scala's Immutable HashMap](http://allaboutscala.com/tutorials/chapter-6-beginner-tutorial-using-scala-immutable-collection/scala-tutorial-learn-use-immutable-hashmap/)
 
 
 ### Chapter 7: Mutable Collection
