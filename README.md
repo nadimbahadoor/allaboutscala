@@ -73,6 +73,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 ### Chapter 4: Think you know Object Oriented using classes?
 - [1: Learn How To Create Classes And Objects In Scala](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-classes-scala/scala-tutorial-learn-create-classes-objects/)
 - [2: Learn How To Create And Use Companion Objects](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-classes-scala/scala-tutorial-learn-create-use-companion-objects/)
+- [3: Learn How To Use Companion Objects' Apply Method As A Factory (Class Hierarchy Via Inheritance)](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-classes-scala/scala-tutorial-learn-companion-objects-factory-apply-method-inheritance/)
 
 
 ### Chapter 5: Dependency Injection reinvented using traits
