@@ -89,6 +89,7 @@ coming soon...
 - [6: Learn How To Use Scala's Immutable TreeMap](http://allaboutscala.com/tutorials/chapter-6-beginner-tutorial-using-scala-immutable-collection/scala-tutorial-learn-use-immutable-treemap/)
 - [7: Learn How To Use Scala's Immutable Queue](http://allaboutscala.com/tutorials/chapter-6-beginner-tutorial-using-scala-immutable-collection/scala-tutorial-learn-use-immutable-queue/)
 - [8: Learn How To Use Scala's Immutable Sequence](http://allaboutscala.com/tutorials/chapter-6-beginner-tutorial-using-scala-immutable-collection/scala-tutorial-learn-use-immutable-sequence/)
+- [9: Learn How To Use Scala's Immutable Set](http://allaboutscala.com/tutorials/chapter-6-beginner-tutorial-using-scala-immutable-collection/scala-tutorial-learn-use-immutable-set/)
 
 
 ### Chapter 7: Mutable Collection
