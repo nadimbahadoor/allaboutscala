@@ -93,6 +93,7 @@ coming soon...
 - [9: Learn How To Use Scala's Immutable Set](http://allaboutscala.com/tutorials/chapter-6-beginner-tutorial-using-scala-immutable-collection/scala-tutorial-learn-use-immutable-set/)
 - [10: Learn How To Use Scala's Immutable HashSet](http://allaboutscala.com/tutorials/chapter-6-beginner-tutorial-using-scala-immutable-collection/scala-tutorial-learn-use-immutable-hashset/)
 - [11: Learn How To Use Scala's Immutable TreeSet](http://allaboutscala.com/tutorials/chapter-6-beginner-tutorial-using-scala-immutable-collection/scala-tutorial-learn-use-immutable-treeset/)
+- [12: Learn How To Use Scala’s Immutable SortedSet](http://allaboutscala.com/tutorials/chapter-6-beginner-tutorial-using-scala-immutable-collection/scala-tutorial-learn-use-immutable-sortedset/)
 
 
 ### Chapter 7: Mutable Collection
