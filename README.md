@@ -97,6 +97,7 @@ coming soon...
 - [12: Learn How To Use Scala’s Immutable SortedSet](http://allaboutscala.com/tutorials/chapter-6-beginner-tutorial-using-scala-immutable-collection/scala-tutorial-learn-use-immutable-sortedset/)
 - [13: Learn How To Use Scala's Immutable BitSet](http://allaboutscala.com/tutorials/chapter-6-beginner-tutorial-using-scala-immutable-collection/scala-tutorial-learn-use-immutable-bitset/)
 - [14: Learn How To Use Scala's Immutable Stack](http://allaboutscala.com/tutorials/chapter-6-beginner-tutorial-using-scala-immutable-collection/scala-tutorial-learn-use-immutable-stack/)
+- [15: Learn How To Use Scala's Immutable Stream](http://allaboutscala.com/tutorials/chapter-6-beginner-tutorial-using-scala-immutable-collection/scala-tutorial-learn-use-immutable-stream/)
 
 
 ### Chapter 7: Mutable Collection
