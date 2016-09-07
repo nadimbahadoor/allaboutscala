@@ -98,6 +98,7 @@ coming soon...
 - [13: Learn How To Use Scala's Immutable BitSet](http://allaboutscala.com/tutorials/chapter-6-beginner-tutorial-using-scala-immutable-collection/scala-tutorial-learn-use-immutable-bitset/)
 - [14: Learn How To Use Scala's Immutable Stack](http://allaboutscala.com/tutorials/chapter-6-beginner-tutorial-using-scala-immutable-collection/scala-tutorial-learn-use-immutable-stack/)
 - [15: Learn How To Use Scala's Immutable Stream](http://allaboutscala.com/tutorials/chapter-6-beginner-tutorial-using-scala-immutable-collection/scala-tutorial-learn-use-immutable-stream/)
+- [16: Learn How To Use Scala's Immutable Vector](http://allaboutscala.com/tutorials/chapter-6-beginner-tutorial-using-scala-immutable-collection/scala-tutorial-learn-use-immutable-vector/)
 
 
 ### Chapter 7: Mutable Collection
