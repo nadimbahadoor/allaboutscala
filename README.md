@@ -102,7 +102,7 @@ coming soon...
 
 
 ### Chapter 7: Mutable Collection
-coming soon...
+- [1: Learn How To Use Scala's Mutable Array](http://allaboutscala.com/tutorials/chapter-7-beginner-tutorial-using-scala-mutable-collection/scala-tutorial-learn-use-mutable-array/)
 
 
 ### Chapter 8: Collection Functions
