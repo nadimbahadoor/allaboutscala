@@ -107,6 +107,7 @@ coming soon...
 - [2: Learn How To Use Scala's Mutable ArrayBuffer](http://allaboutscala.com/tutorials/chapter-7-beginner-tutorial-using-scala-mutable-collection/scala-tutorial-learn-use-mutable-arraybuffer/)
 - [3: Learn How To Use Scala's Mutable ArrayStack](http://allaboutscala.com/tutorials/chapter-7-beginner-tutorial-using-scala-mutable-collection/scala-tutorial-learn-use-mutable-arraystack/)
 - [4: Learn How To Use Scala's Mutable ListBuffer](http://allaboutscala.com/tutorials/chapter-7-beginner-tutorial-using-scala-mutable-collection/scala-tutorial-learn-use-mutable-listbuffer/)
+- [5: Learn How To Use Scala's Mutable Map](http://allaboutscala.com/tutorials/chapter-7-beginner-tutorial-using-scala-mutable-collection/scala-tutorial-learn-use-mutable-map/)
 
 
 ### Chapter 8: Collection Functions
