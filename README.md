@@ -111,6 +111,7 @@ coming soon...
 - [6: Learn How To Use Scala's Mutable HashMap](http://allaboutscala.com/tutorials/chapter-7-beginner-tutorial-using-scala-mutable-collection/scala-tutorial-learn-use-mutable-hashmap/)
 - [7:Learn How To Use Scala's Mutable ListMap](http://allaboutscala.com/tutorials/chapter-7-beginner-tutorial-using-scala-mutable-collection/scala-tutorial-learn-use-mutable-listmap/)
 - [8: Learn How To Use Scala's Mutable LinkedHashMap](http://allaboutscala.com/tutorials/chapter-7-beginner-tutorial-using-scala-mutable-collection/scala-tutorial-learn-use-mutable-linkedhashmap/)
+- [9: Learn How To Use Scala's Mutable Queue](http://allaboutscala.com/tutorials/chapter-7-beginner-tutorial-using-scala-mutable-collection/scala-tutorial-learn-use-mutable-queue/)
 
 
 ### Chapter 8: Collection Functions
