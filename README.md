@@ -113,6 +113,7 @@ coming soon...
 - [8: Learn How To Use Scala's Mutable LinkedHashMap](http://allaboutscala.com/tutorials/chapter-7-beginner-tutorial-using-scala-mutable-collection/scala-tutorial-learn-use-mutable-linkedhashmap/)
 - [9: Learn How To Use Scala's Mutable Queue](http://allaboutscala.com/tutorials/chapter-7-beginner-tutorial-using-scala-mutable-collection/scala-tutorial-learn-use-mutable-queue/)
 - [10: Learn How To Use Scala's Mutable PriorityQueue](http://allaboutscala.com/tutorials/chapter-7-beginner-tutorial-using-scala-mutable-collection/scala-tutorial-learn-use-mutable-priorityqueue/)
+- [11: Learn How To Use Scala's Mutable Set](http://allaboutscala.com/tutorials/chapter-7-beginner-tutorial-using-scala-mutable-collection/scala-tutorial-learn-use-mutable-set/)
 
 
 ### Chapter 8: Collection Functions
