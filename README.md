@@ -115,7 +115,7 @@ coming soon...
 - [10: Learn How To Use Scala's Mutable PriorityQueue](http://allaboutscala.com/tutorials/chapter-7-beginner-tutorial-using-scala-mutable-collection/scala-tutorial-learn-use-mutable-priorityqueue/)
 - [11: Learn How To Use Scala's Mutable Set](http://allaboutscala.com/tutorials/chapter-7-beginner-tutorial-using-scala-mutable-collection/scala-tutorial-learn-use-mutable-set/)
 - [12: Learn How To Use Scala's Mutable HashSet](http://allaboutscala.com/tutorials/chapter-7-beginner-tutorial-using-scala-mutable-collection/scala-tutorial-learn-use-mutable-hashset/)
-- [Learn How To Use Scala's Mutable SortedSet](http://allaboutscala.com/tutorials/chapter-7-beginner-tutorial-using-scala-mutable-collection/scala-tutorial-learn-use-mutable-sortedset/)
+- [13: Learn How To Use Scala's Mutable SortedSet](http://allaboutscala.com/tutorials/chapter-7-beginner-tutorial-using-scala-mutable-collection/scala-tutorial-learn-use-mutable-sortedset/)
 
 ### Chapter 8: Collection Functions
 coming soon...
