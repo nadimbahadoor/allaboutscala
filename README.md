@@ -118,6 +118,7 @@ coming soon...
 - [13: Learn How To Use Scala's Mutable SortedSet](http://allaboutscala.com/tutorials/chapter-7-beginner-tutorial-using-scala-mutable-collection/scala-tutorial-learn-use-mutable-sortedset/)
 - [14: Learn How To Use Scala's Mutable TreeSet](http://allaboutscala.com/tutorials/chapter-7-beginner-tutorial-using-scala-mutable-collection/scala-tutorial-learn-use-mutable-treeset/)
 - [15: Learn How To Use Scala's Mutable LinkedHashSet](http://allaboutscala.com/tutorials/chapter-7-beginner-tutorial-using-scala-mutable-collection/scala-tutorial-learn-use-mutable-linkedhashset/)
+- [16: Learn How To Use Scala's Mutable BitSet](http://allaboutscala.com/tutorials/chapter-7-beginner-tutorial-using-scala-mutable-collection/scala-tutorial-learn-use-mutable-bitset/)
 
 ### Chapter 8: Collection Functions
 coming soon...
