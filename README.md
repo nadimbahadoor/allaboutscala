@@ -78,6 +78,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [5: Learn How To Declare And Use Singleton Object](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-classes-scala/scala-tutorial-learn-declare-use-singleton-objects/)
 - [6: Learn How To Define And Use Case Class](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-classes-scala/scala-tutorial-learn-define-use-case-class/)
 - [7: Learn How To Use Type Alias: Type Aliasing Versus Case Class](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-classes-scala/scala-tutorial-learn-use-type-alias-versus-case-class/)
+- [8: Learn How To Use Implicit Class - Extension Methods](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-classes-scala/scala-tutorial-learn-use-implicit-class-extension-methods/)
 
 
 ### Chapter 5: Dependency Injection reinvented using traits
