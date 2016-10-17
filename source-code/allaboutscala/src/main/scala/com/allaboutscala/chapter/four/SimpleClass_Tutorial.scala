@@ -23,6 +23,13 @@ package com.allaboutscala.chapter.four
   */
 object SimpleClass_Tutorial extends App {
 
+  println("Step 1: How to define a simple class to represent a Donut object")
+  class Donut(name: String, productCode: Long) {
+
+    def print = println(s"Donut name = $name, productCode = $productCode")
+
+  }
+
   println("\nStep 2: How to create instances of Donut class")
   val glazedDonut = new Donut("Glazed Donut", 1111)
   val vanillaDonut = new Donut("Vanilla Donut", 2222)
@@ -45,9 +52,3 @@ object SimpleClass_Tutorial extends App {
 
 
 
-// Step 1: How to define a simple class to represent a Donut object")
-class Donut(name: String, productCode: Long) {
-
-  def print = println(s"Donut name = $name, productCode = $productCode")
-
-}
