@@ -85,6 +85,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [8: Learn How To Use Type Alias: Type Aliasing Versus Case Class](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-classes-scala/scala-tutorial-learn-use-type-alias-versus-case-class/)
 - [9: Learn How To Use Implicit Class - Extension Methods](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-classes-scala/scala-tutorial-learn-use-implicit-class-extension-methods/)
 - [10: Learn How To Use Package Object](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-classes-scala/scala-package-object/)
+- [11: Learn How To Extend Class - Class Inheritance](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-classes-scala/scala-extend-class/)
 
 
 ### Chapter 5: Dependency Injection reinvented using traits
