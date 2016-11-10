@@ -88,6 +88,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [11: Learn How To Extend Class - Class Inheritance](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-classes-scala/scala-extend-class/)
 - [12: Learn How To Extend Case Class - Case Class Inheritance](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-classes-scala/scala-extend-case-class/)
 - [13: Learn How To Create Type Class](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-classes-scala/scala-type-class/)
+- [14: Learn How To Create Covariance Type Class](http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-classes-scala/scala-variance-covariance/)
 
 
 ### Chapter 5: Dependency Injection reinvented using traits
