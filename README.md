@@ -139,6 +139,7 @@ coming soon...
 - [1: Introduction](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/)
 - [2: Learn How To Use Aggregate Function](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-aggregate-function/)
 - [3: Learn How To Use Collect Function](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-collect-function/)
+- [4: Learn How To Use Diff Function](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-diff-function/)
 
 
 ### Chapter 9: Futures
