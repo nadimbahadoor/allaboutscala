@@ -142,6 +142,8 @@ coming soon...
 - [4: Learn How To Use Diff Function](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-diff-function/)
 - [5: Learn How To Use Drop Function](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-drop-function/)
 - [6: Learn How To Use DropWhile Function](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-dropwhile-function/)
+- [7: Learn How To Use Exists Function](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-exists-function/)
+- [8: Learn How To Use Filter And FilterNot Functions](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-filter-filternot-function/)
 
 
 ### Chapter 9: Futures
