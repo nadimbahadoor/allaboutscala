@@ -146,6 +146,7 @@ coming soon...
 - [8: Learn How To Use Filter And FilterNot Functions](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-filter-filternot-function/)
 - [9: Learn How To Use Find Function](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-find-function/)
 - [10: Learn How To Use FlatMap Function](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-flatmap-function/)
+- [11: Learn How To Use Flatten Function](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-flatten-function-example/)
 
 
 ### Chapter 9: Futures
