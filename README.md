@@ -151,6 +151,7 @@ coming soon...
 - [13: Learn How To Use FoldLeft Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-foldleft-example/)
 - [14: Learn How To Use FoldRight Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-foldright-example/)
 - [15: Learn How To Use Foreach Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-foreach-example/)
+- [16: Learn How To Use GroupBy Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-groupby-example/)
 
 ### Chapter 9: Futures
 coming soon...
