@@ -154,6 +154,7 @@ coming soon...
 - [16: Learn How To Use GroupBy Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-groupby-example/)
 - [17: Learn How To Use Head Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-head-example/)
 - [18: Learn How To Use IsEmpty Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-isempty-example/)
+- [19: Learn How To Use Intersect Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-intersect-example/)
 
 ### Chapter 9: Futures
 coming soon...
