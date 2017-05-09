@@ -93,7 +93,8 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 
 
 ### Chapter 5: Dependency Injection reinvented using traits
-- [1: Learn How To Create And Extend Trait In Scala](http://allaboutscala.com/tutorials/chapter-5-traits/scala-extend-trait/)
+- [1: Introduction](http://allaboutscala.com/tutorials/chapter-5-traits/)
+- [2: Learn How To Create And Extend Trait In Scala](http://allaboutscala.com/tutorials/chapter-5-traits/scala-extend-trait/)
 
 
 ### Chapter 6: Immutable Collection
