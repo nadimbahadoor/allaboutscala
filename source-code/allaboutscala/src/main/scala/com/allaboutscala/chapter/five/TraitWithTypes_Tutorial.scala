@@ -4,7 +4,7 @@ package com.allaboutscala.chapter.five
   * /**
   * Created by Nadim Bahadoor on 28/06/2016.
   *
-  *  Tutorial: Learn How To Create Traits With Type
+  *  Tutorial: Learn How To Create Traits With Type Paramters
   *
   * [[http://allaboutscala.com/tutorials/chapter-5-traits/scala-trait-type-parameters/]]
   *
