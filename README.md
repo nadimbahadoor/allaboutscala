@@ -97,6 +97,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [2: Learn How To Create And Extend Trait In Scala](http://allaboutscala.com/tutorials/chapter-5-traits/scala-extend-trait/)
 - [3: Learn How To Create Trait With Type Parameters](http://allaboutscala.com/tutorials/chapter-5-traits/scala-trait-type-parameters/)
 - [4: Learn How To Extend Multiple Traits](http://allaboutscala.com/tutorials/chapter-5-traits/scala-extend-multiple-traits/)
+- [5: Learn How To Use Traits For Dependency Injection](http://allaboutscala.com/tutorials/chapter-5-traits/scala-traits-depedency-injection/)
 
 
 ### Chapter 6: Immutable Collection
