@@ -99,6 +99,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [4: Learn How To Extend Multiple Traits](http://allaboutscala.com/tutorials/chapter-5-traits/scala-extend-multiple-traits/)
 - [5: Learn How To Use Traits For Dependency Injection](http://allaboutscala.com/tutorials/chapter-5-traits/scala-traits-depedency-injection/)
 - [6: Learn How To Use Traits For Dependency Injection Part 2 - Avoid Cake Pattern](http://allaboutscala.com/tutorials/chapter-5-traits/scala-traits-depedency-injection-avoid-cake-pattern/)
+- [7: Traits, Companion Object, Factory Pattern](http://allaboutscala.com/tutorials/chapter-5-traits/scala-traits-companion-object-factory-pattern/)
 
 
 ### Chapter 6: Immutable Collection
