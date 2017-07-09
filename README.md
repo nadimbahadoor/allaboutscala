@@ -164,6 +164,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [20: Learn How To Use Last Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-last-example/)
 - [21: Learn How To Use Map Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-map-example/)
 - [22: Learn How To Use Max Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-max-example/)
+- [23: Learn How To Use MaxBy Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-maxby-example/)
 
 ### Chapter 9: Futures
 coming soon...
