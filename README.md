@@ -167,6 +167,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [23: Learn How To Use MaxBy Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-maxby-example/)
 - [24: Learn How To Use Min Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-min-example/)
 - [25: Learn How To Use MinBy Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-minby-example/)
+- [26: Learn How To Use MkString Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-mkstring-example/)
 
 ### Chapter 9: Futures
 coming soon...
