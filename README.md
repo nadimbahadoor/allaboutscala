@@ -168,6 +168,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [24: Learn How To Use Min Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-min-example/)
 - [25: Learn How To Use MinBy Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-minby-example/)
 - [26: Learn How To Use MkString Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-mkstring-example/)
+- [27: Learn How To Use NonEmpty Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-nonempty-example/)
 
 ### Chapter 9: Futures
 coming soon...
