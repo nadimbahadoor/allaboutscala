@@ -177,7 +177,95 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 coming soon...
 
 
+### Chapter 10: Cheatsheet and Scala Test
 
+
+### Chapter 11: Learn SBT
+
+
+### Chapter 12: Learn Apache Spark 2
+## Chapter 12 - Part 1
+# Project Setup
+- [StackOverflow dataset](http://allaboutscala.com/big-data/spark/#stackoverflow-dataset)
+- [Add Apache Spark 2.0 SBT dependencies](http://allaboutscala.com/big-data/spark/#spark-sbt-dependencies)
+- [Bootstrap a SparkSession](http://allaboutscala.com/big-data/spark/#bootstrap-sparksession)
+
+# DataFrame SQL Query
+- [DataFrame Introduction](http://allaboutscala.com/big-data/spark/#dataframe-introduction)
+- [Create a DataFrame from reading a CSV file](http://allaboutscala.com/big-data/spark/#create-dataframe-read-csv)
+- [DataFrame schema](http://allaboutscala.com/big-data/spark/#print-dataframe-schema)
+- [Select columns from a dataframe](http://allaboutscala.com/big-data/spark/#dataframe-select-columns)
+- [Filter by column value of a dataframe](http://allaboutscala.com/big-data/spark/#filter-column-dataframe)
+- [Count rows of a dataframe](http://allaboutscala.com/big-data/spark/#dataframe-count-rows)
+- [SQL like query](http://allaboutscala.com/big-data/spark/#dataframe-sql-like-query)
+- [Multiple filter chaining](http://allaboutscala.com/big-data/spark/#dataframe-multiple-filter-chains)
+- [SQL IN clause](http://allaboutscala.com/big-data/spark/#dataframe-sql-in-clause)
+- [SQL Group By](http://allaboutscala.com/big-data/spark/#dataframe-sql-group-by)
+- [SQL Group By with filter](http://allaboutscala.com/big-data/spark/#dataframe-sql-group-by-count-filter)
+- [SQL order by](http://allaboutscala.com/big-data/spark/#dataframe-order-by)
+- [Cast columns to specific data type](http://allaboutscala.com/big-data/spark/#dataframe-cast-columns-data-type)
+- [Operate on a filtered dataframe](http://allaboutscala.com/big-data/spark/#dataframe-operations)
+- [DataFrame Join](http://allaboutscala.com/big-data/spark/#dataframe-join)
+- [Join and select columns](http://allaboutscala.com/big-data/spark/#dataframe-join-select-columns)
+- [Join on explicit columns](http://allaboutscala.com/big-data/spark/#dataframe-join-explicit-columns)
+- [Inner Join](http://allaboutscala.com/big-data/spark/#dataframe-inner-join)
+- [Left Outer Join](http://allaboutscala.com/big-data/spark/#dataframe-left-outer-join)
+- [Right Outer Join](http://allaboutscala.com/big-data/spark/#dataframe-right-outer-join)
+- [Distinct](http://allaboutscala.com/big-data/spark/#dataframe-distinct)
+
+## Chatper 12 - Part 2
+# Spark SQL
+- [Spark SQL Introduction](http://allaboutscala.com/big-data/spark/#spark-sql-introduction)
+- [Register temp table from dataframe](http://allaboutscala.com/big-data/spark/#register-temp-table-from-dataframe)
+- [List all tables in Spark's catalog](http://allaboutscala.com/big-data/spark/#list-tables-spark-catalog)
+- [List catalog tables using Spark SQL](http://allaboutscala.com/big-data/spark/#list-catalog-tables-spark-sql)
+- [Select columns](http://allaboutscala.com/big-data/spark/#spark-sql-select-columns)
+- [Filter by column value](http://allaboutscala.com/big-data/spark/#spark-sql-filter-column-value)
+- [Count number of rows](http://allaboutscala.com/big-data/spark/#spark-sql-count-rows)
+- [SQL like](http://allaboutscala.com/big-data/spark/#spark-sql-like)
+- [SQL where with and clause](http://allaboutscala.com/big-data/spark/#spark-sql-where-with-and-clause)
+- [SQL IN clause](http://allaboutscala.com/big-data/spark/#spark-sql-in-clause)
+- [SQL Group By](http://allaboutscala.com/big-data/spark/#spark-sql-group-by)
+- [SQL Group By with having clause](http://allaboutscala.com/big-data/spark/#spark-sql-group-by-having-clause)
+- [SQL Order by](http://allaboutscala.com/big-data/spark/#spark-sql-order-by)
+- [Typed columns, filter and create temp table](http://allaboutscala.com/big-data/spark/#spark-sql-typed-column-filter-temp-table)
+- [SQL Inner Join](http://allaboutscala.com/big-data/spark/#spark-sql-inner-join)
+- [SQL Left Outer Join](http://allaboutscala.com/big-data/spark/#spark-sql-left-outer-join)
+- [SQL Right Outer Join](http://allaboutscala.com/big-data/spark/#spark-sql-right-outer-join)
+- [SQL Distinct](http://allaboutscala.com/big-data/spark/#spark-sql-distinct)
+- [Register User Defined Function (UDF)](http://allaboutscala.com/big-data/spark/#spark-sql-udf)
+
+## Chapter 12 - Part 3
+# DataFrame Statistics
+- [DataFrame Statistics Introduction](http://allaboutscala.com/big-data/spark/#dataframe-statistics-introduction)
+- [Create DataFrame from CSV](http://allaboutscala.com/big-data/spark/#create-dataframe-csv)
+- [Average](http://allaboutscala.com/big-data/spark/#dataframe-statistics-average)
+- [Maximum](http://allaboutscala.com/big-data/spark/#dataframe-statistics-max)
+- [Minimum](http://allaboutscala.com/big-data/spark/#dataframe-statistics-minimum)
+- [Mean](http://allaboutscala.com/big-data/spark/#dataframe-statistics-mean)
+- [Sum](http://allaboutscala.com/big-data/spark/#dataframe-statistics-sum)
+- [Group by query with statistics](http://allaboutscala.com/big-data/spark/#dataframe-statistics-group-by-query)
+- [DataFrame Statistics using describe() method](http://allaboutscala.com/big-data/spark/#dataframe-statistics-describe-method)
+- [Correlation](http://allaboutscala.com/big-data/spark/#dataframe-statistics-correlation)
+- [Covariance](http://allaboutscala.com/big-data/spark/#dataframe-statistics-covariance)
+- [Frequent Items](http://allaboutscala.com/big-data/spark/#dataframe-statistics-frequent-items)
+- [Crosstab](http://allaboutscala.com/big-data/spark/#dataframe-statistics-crosstab)
+- [Stratified sampling using sampleBy](http://allaboutscala.com/big-data/spark/#dataframe-statistics-sampleby)
+- [Approximate Quantile](http://allaboutscala.com/big-data/spark/#dataframe-statistics-approxquantile)
+- [Bloom Filter](http://allaboutscala.com/big-data/spark/#spark-dataframe-bloom-filter)
+- [Count Min Sketch](http://allaboutscala.com/big-data/spark/#dataframe-statistics-count-min-sketch)
+- [Sampling With Replacement](http://allaboutscala.com/big-data/spark/#dataframe-sampling-with-replacement)
+
+## Chapter 12 - Part 4
+# DataFrame Operations
+- [DataFrame Operations Introduction](http://allaboutscala.com/big-data/spark/#dataframe-operations-introduction)
+- [Setup DataFrames](http://allaboutscala.com/big-data/spark/#dataframe-operations-setup)
+- [Convert DataFrame row to Scala case class](http://allaboutscala.com/big-data/spark/#dataframe-convert-row-scala-case-class)
+- [DataFrame row to Scala case class using map()](http://allaboutscala.com/big-data/spark/#dataframe-row-scala-case-class-map-method)
+- [Create DataFrame from collection](http://allaboutscala.com/big-data/spark/#create-dataframe-from-collection)
+- [DataFrame Union](http://allaboutscala.com/big-data/spark/#dataframe-union)
+- [DataFrame Intersection](http://allaboutscala.com/big-data/spark/#dataframe-intersection)
+- [Append column to DataFrame using withColumn()](http://allaboutscala.com/big-data/spark/#dataframe-append-column-withcolumn-method)
 Stay in touch via [Facebook](http://www.facebook.com/allaboutscala) and [Twitter](https://twitter.com/NadimBahadoor) for upcoming tutorials!
 
 
