@@ -184,13 +184,13 @@ coming soon...
 
 
 ### Chapter 12: Learn Apache Spark 2
-## Chapter 12 - Part 1
-# Project Setup
+### Chapter 12 - Part 1
+#### Project Setup
 - [StackOverflow dataset](http://allaboutscala.com/big-data/spark/#stackoverflow-dataset)
 - [Add Apache Spark 2.0 SBT dependencies](http://allaboutscala.com/big-data/spark/#spark-sbt-dependencies)
 - [Bootstrap a SparkSession](http://allaboutscala.com/big-data/spark/#bootstrap-sparksession)
 
-# DataFrame SQL Query
+#### DataFrame SQL Query
 - [DataFrame Introduction](http://allaboutscala.com/big-data/spark/#dataframe-introduction)
 - [Create a DataFrame from reading a CSV file](http://allaboutscala.com/big-data/spark/#create-dataframe-read-csv)
 - [DataFrame schema](http://allaboutscala.com/big-data/spark/#print-dataframe-schema)
@@ -213,8 +213,8 @@ coming soon...
 - [Right Outer Join](http://allaboutscala.com/big-data/spark/#dataframe-right-outer-join)
 - [Distinct](http://allaboutscala.com/big-data/spark/#dataframe-distinct)
 
-## Chatper 12 - Part 2
-# Spark SQL
+### Chatper 12 - Part 2
+#### Spark SQL
 - [Spark SQL Introduction](http://allaboutscala.com/big-data/spark/#spark-sql-introduction)
 - [Register temp table from dataframe](http://allaboutscala.com/big-data/spark/#register-temp-table-from-dataframe)
 - [List all tables in Spark's catalog](http://allaboutscala.com/big-data/spark/#list-tables-spark-catalog)
@@ -235,8 +235,8 @@ coming soon...
 - [SQL Distinct](http://allaboutscala.com/big-data/spark/#spark-sql-distinct)
 - [Register User Defined Function (UDF)](http://allaboutscala.com/big-data/spark/#spark-sql-udf)
 
-## Chapter 12 - Part 3
-# DataFrame Statistics
+### Chapter 12 - Part 3
+#### DataFrame Statistics
 - [DataFrame Statistics Introduction](http://allaboutscala.com/big-data/spark/#dataframe-statistics-introduction)
 - [Create DataFrame from CSV](http://allaboutscala.com/big-data/spark/#create-dataframe-csv)
 - [Average](http://allaboutscala.com/big-data/spark/#dataframe-statistics-average)
@@ -256,8 +256,8 @@ coming soon...
 - [Count Min Sketch](http://allaboutscala.com/big-data/spark/#dataframe-statistics-count-min-sketch)
 - [Sampling With Replacement](http://allaboutscala.com/big-data/spark/#dataframe-sampling-with-replacement)
 
-## Chapter 12 - Part 4
-# DataFrame Operations
+### Chapter 12 - Part 4
+#### DataFrame Operations
 - [DataFrame Operations Introduction](http://allaboutscala.com/big-data/spark/#dataframe-operations-introduction)
 - [Setup DataFrames](http://allaboutscala.com/big-data/spark/#dataframe-operations-setup)
 - [Convert DataFrame row to Scala case class](http://allaboutscala.com/big-data/spark/#dataframe-convert-row-scala-case-class)
