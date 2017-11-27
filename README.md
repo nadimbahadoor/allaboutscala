@@ -194,7 +194,26 @@ coming soon...
 - [Cannot find an implicit ExecutionContext](http://allaboutscala.com/scala-cheatsheet/#implicit-executioncontext)
 
 ### Chapter 11: Learn SBT
+#### Install SBT
+- [Install SBT on Windows](http://allaboutscala.com/scala-frameworks/sbt/#install-sb-windows)
+- [Install SBT on Mac](http://allaboutscala.com/scala-frameworks/sbt/#install-sbt-mac)
 
+#### sbt run
+- [Run a Scala main class](http://allaboutscala.com/scala-frameworks/sbt/#sbt-run-main-class)
+
+#### sbt test
+- [Run all tests](http://allaboutscala.com/scala-frameworks/sbt/#sbt-run-test)
+- [Run only one specific test](http://allaboutscala.com/scala-frameworks/sbt/#sbt-run-specific-test)
+- [Run all integration tests](http://allaboutscala.com/scala-frameworks/sbt/#sbt-run-it-test)
+- [Run a specific integration test](http://allaboutscala.com/scala-frameworks/sbt/#sbt-run-specific-it-test)
+- [Run one method in a test class](http://allaboutscala.com/scala-frameworks/sbt/#sbt-run-specific-test-and-test-method)
+
+#### sbt debugging
+- [Analyze stacktrace in IntelliJ](http://allaboutscala.com/scala-frameworks/sbt/#sbt-debug-stacktrace-intellij)
+
+#### sbt resources
+- [Show unmanaged classpaths](http://allaboutscala.com/scala-frameworks/sbt/#sbt-show-unmanaged-classpaths)
+- [Show unmanaged resources](http://allaboutscala.com/scala-frameworks/sbt/#sbt-show-unmanaged-resource-directories)
 
 ### Chapter 12: Learn Apache Spark 2
 ### Chapter 12 - Part 1
