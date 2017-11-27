@@ -172,6 +172,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [28: Learn How To Use Par Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-par-example/)
 - [29: Learn How To Use Partition Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-partition-example/)
 - [30: Learn How To Use Reduce Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-reduce-example/)
+- [31: Learn How To Use ReduceLeft Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-reduceleft-example/)
 
 ### Chapter 9: Futures
 coming soon...
