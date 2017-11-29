@@ -174,6 +174,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [30: Learn How To Use Reduce Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-reduce-example/)
 - [31: Learn How To Use ReduceLeft Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-reduceleft-example/)
 - [32: Learn How To Use ReduceRight Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-reduceright-example/)
+- [33: Learn How To Use Reverse Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-reverse-example/)
 
 ### Chapter 9: Futures
 coming soon...
