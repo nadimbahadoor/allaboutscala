@@ -179,6 +179,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [35: Learn How To Use Scan Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-scan-example/)
 - [36: Learn How To Use ScanLeft Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-scanleft-example/)
 - [37: Learn How To Use ScanRight Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-scanright-example/)
+- [38: Learn How To Use Size Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-size-example/)
 
 ### Chapter 9: Futures
 coming soon...
