@@ -181,6 +181,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [37: Learn How To Use ScanRight Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-scanright-example/)
 - [38: Learn How To Use Size Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-size-example/)
 - [39: Learn How To Use Slice Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-slice-example/)
+- [40: Learn How To Use SortBy Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-sortby-example/)
 
 ### Chapter 9: Futures
 coming soon...
