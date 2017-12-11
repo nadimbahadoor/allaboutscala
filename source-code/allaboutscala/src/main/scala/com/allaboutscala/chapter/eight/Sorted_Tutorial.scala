@@ -3,9 +3,9 @@ package com.allaboutscala.chapter.eight
 /**
   * Created by Nadim Bahadoor on 28/06/2016.
   *
-  *  Tutorial: Learn How To Use SortBy Function With Examples
+  *  Tutorial: Learn How To Use Sorted Function With Examples
   *
-  * [[http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-sortby-example/ Tutorial]]
+  * [[http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-sorted-example/ Tutorial]]
   *
   * Copyright 2016 Nadim Bahadoor (http://allaboutscala.com)
   *
@@ -23,17 +23,23 @@ package com.allaboutscala.chapter.eight
   */
 object Sorted_Tutorial extends App {
 
-  println("\nStep 1: How to create a case class to represent Donut objects")
-  case class Donut(name: String, price: Double)
+  println("Step 1: How to initialize donut prices")
+  val prices: Seq[Double] = Seq(1.50, 2.0, 2.50)
+  println(s"Elements of prices = $prices")
 
 
 
-  println("\nStep 2: How to create a Sequence of type Donut")
-  val donuts: Seq[Donut] = Seq(Donut("Plain Donut", 1.5), Donut("Strawberry Donut", 2.0), Donut("Glazed Donut", 2.5))
+  println("\nStep 2: How to sort a sequence of type Double using the sorted function")
+  println(s"Sort a sequence of type Double by their natural ordering = ${prices.sorted}")
+
+
+
+  println("\nStep 3: How to initialize a Sequence of donuts")
+  val donuts: Seq[String] = Seq("Plain Donut", "Strawberry Donut", "Glazed Donut")
   println(s"Elements of donuts = $donuts")
 
 
 
-  println("\nStep 3: How to sort a sequence of case class objects using the sortBy function")
-  println(s"Sort a sequence of case class objects of type Donut, sorted by price = ${donuts.sortBy(donut => donut.price)}")
+  println("\nStep 4: How to sort a sequence of type String using the sorted function")
+  println(s"Sort a sequence of type String by their natural ordering = ${donuts.sorted}")
 }
