@@ -183,6 +183,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [39: Learn How To Use Slice Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-slice-example/)
 - [40: Learn How To Use SortBy Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-sortby-example/)
 - [41: Learn How To Use Sorted Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-sorted-example/)
+- [42: Learn How To Use SortWith Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-sortwith-example/)
 
 ### Chapter 9: Futures
 coming soon...
