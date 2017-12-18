@@ -186,6 +186,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [42: Learn How To Use SortWith Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-sortwith-example/)
 - [43: Learn How To Use Tail Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-tail-example/)
 - [44: Learn How To Use Take Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-take-example/)
+- [45: Learn How To Use TakeRight Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-takeright-example/)
 
 ### Chapter 9: Futures
 coming soon...
