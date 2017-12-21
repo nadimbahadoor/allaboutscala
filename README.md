@@ -189,6 +189,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [45: Learn How To Use TakeRight Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-takeright-example/)
 - [46: Learn How To Use TakeWhile Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-takewhile-example/)
 - [47: Learn How To Use Transpose Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-transpose-example/)
+- [48: Learn How To Use Union Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-union-example/)
 
 ### Chapter 9: Futures
 coming soon...
