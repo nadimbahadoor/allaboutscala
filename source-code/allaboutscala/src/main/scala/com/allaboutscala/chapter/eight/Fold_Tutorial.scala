@@ -42,12 +42,12 @@ object Fold_Tutorial extends App {
 
 
   println("\nStep 4: How to create a String of all donuts using fold function")
-  println(s"All donuts = ${donuts.fold("")((a, b) => a + b + " Donut ")}")
+  println(s"All donuts = ${donuts.fold("")((acc, s) => acc + s + " Donut ")}")
 
 
 
   println("\nStep 5: How to declare a value function to create the donut string")
-  val concatDonuts: (String, String) => String = (a, b) => a + b + " Donut "
+  val concatDonuts: (String, String) => String = (s1, s2) => s1 + s2 + " Donut "
   println(s"Value function concatDonuts = $concatDonuts")
 
 
