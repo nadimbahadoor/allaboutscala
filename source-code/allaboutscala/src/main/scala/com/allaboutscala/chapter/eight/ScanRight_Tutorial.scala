@@ -33,12 +33,12 @@ object ScanRight_Tutorial extends App {
   val runningTotal: Seq[Int] = numbers.scanRight(0)(_ + _)
   println(s"Running total of all elements in the collection = $runningTotal")
   // NOTE: scanRight method iterations
-  // 5 + 4 + 3 + 2 + 1 + 0 = 15
-  // 5 + 4 + 3 + 2 + 0     = 14
-  // 5 + 4 + 3 + 0         = 12
-  // 5 + 4 + 0             = 9
-  // 5 + 0                 = 5
-  // 0                     = 0
+  // 5 + 4 + 3 + 2 + 1   = 15
+  // 5 + 4 + 3 + 2       = 14
+  // 5 + 4 + 3           = 12
+  // 5 + 4               = 9
+  // 5 + 0               = 5
+  // 0                   = 0
 
 
 
@@ -46,10 +46,10 @@ object ScanRight_Tutorial extends App {
   val runningTotal2: Seq[Int] = numbers.scanRight(0)((a, b) => a + b)
   println(s"Running total of all elements in the collection = $runningTotal2")
   // NOTE: scanRight method iterations
-  // 5 + 4 + 3 + 2 + 1 + 0 = 15
-  // 5 + 4 + 3 + 2 + 0     = 14
-  // 5 + 4 + 3 + 0         = 12
-  // 5 + 4 + 0             = 9
-  // 5 + 0                 = 5
-  // 0                     = 0
+  // 5 + 4 + 3 + 2 + 1   = 15
+  // 5 + 4 + 3 + 2       = 14
+  // 5 + 4 + 3           = 12
+  // 5 + 4               = 9
+  // 5 + 0               = 5
+  // 0                   = 0
 }

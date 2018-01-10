@@ -34,12 +34,11 @@ object Scan_Tutorial extends App {
   val runningTotal: Seq[Int] = numbers.scan(0)(_ + _)
   println(s"Running total of all elements in the collection = $runningTotal")
   // NOTE:  scan method iterations
-  // 0                     =   0
-  // 0 + 1                 =   1
-  // 0 + 1 + 2             =   3
-  // 0 + 1 + 2 + 3         =   6
-  // 0 + 1 + 2 + 3 + 4     =   10
-  // 0 + 1 + 2 + 3 + 4 + 5 =   15
+  // 0 + 1             =   1
+  // 1 + 2             =   3
+  // 1 + 2 + 3         =   6
+  // 1 + 2 + 3 + 4     =   10
+  // 1 + 2 + 3 + 4 + 5 =   15
 
 
 
@@ -47,10 +46,9 @@ object Scan_Tutorial extends App {
   val runningTotal2: Seq[Int] = numbers.scan(0)((a, b) => a + b)
   println(s"Running total of all elements in the collection = $runningTotal2")
   // NOTE:  scan method iterations
-  // 0                     =   0
-  // 0 + 1                 =   1
-  // 0 + 1 + 2             =   3
-  // 0 + 1 + 2 + 3         =   6
-  // 0 + 1 + 2 + 3 + 4     =   10
-  // 0 + 1 + 2 + 3 + 4 + 5 =   15
+  // 0 + 1             =   1
+  // 1 + 2             =   3
+  // 1 + 2 + 3         =   6
+  // 1 + 2 + 3 + 4     =   10
+  // 1 + 2 + 3 + 4 + 5 =   15
 }
