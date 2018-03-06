@@ -192,6 +192,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [48: Learn How To Use Union Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-union-example/)
 - [49: Learn How To Use Unzip Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-unzip-example/)
 - [50: Learn How To Use Unzip3 Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-unzip3-example/)
+- [51: Learn How To Use View Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-view-example/)
 
 ### Chapter 9: Futures
 coming soon...
