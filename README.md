@@ -195,6 +195,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [51: Learn How To Use View Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-view-example/)
 - [52: Learn How To Use WithFilter Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-withfilter-example/)
 - [53: Learn How To Use Zip Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-zip-example/)
+- [54: Learn How To Use ZipWithIndex Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-zipwithindex-example/)
 
 ### Chapter 9: Futures
 coming soon...
