@@ -198,7 +198,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [54: Learn How To Use ZipWithIndex Function With Examples](http://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-zipwithindex-example/)
 
 ### Chapter 9: Futures
-coming soon...
+- [1: Method with future as return type](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#method-future-return-type)
 
 
 ### Chapter 10: Cheatsheet and Scala Test
