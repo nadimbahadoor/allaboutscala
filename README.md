@@ -200,6 +200,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 ### Chapter 9: Futures
 - [1: Method with future as return type](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#method-future-return-type)
 - [2: Non blocking future result](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#non-blocking-future-result)
+- [3: Chain futures using flatMap](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#chain-futures-using-flatmap)
 
 
 ### Chapter 10: Cheatsheet and Scala Test
