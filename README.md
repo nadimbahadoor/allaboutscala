@@ -203,6 +203,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [3: Chain futures using flatMap](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#chain-futures-using-flatmap)
 - [4: Chain futures using for comprehension](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#chain-futures-using-for-comprehension)
 - [5: Future option with for comprehension](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#future-option-with-for-comprehension)
+- [6: Future option with map](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#future-option-with-map)
 
 
 ### Chapter 10: Cheatsheet and Scala Test
