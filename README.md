@@ -205,6 +205,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [5: Future option with for comprehension](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#future-option-with-for-comprehension)
 - [6: Future option with map](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#future-option-with-map)
 - [7: Composing futures](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#composing-futures)
+- [8: Future sequence](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#future-sequence)
 
 
 ### Chapter 10: Cheatsheet and Scala Test
