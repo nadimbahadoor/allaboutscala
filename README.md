@@ -207,6 +207,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [7: Composing futures](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#composing-futures)
 - [8: Future sequence](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#future-sequence)
 - [9: Future traverse](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#future-traverse)
+- [10: Future foldLeft](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#future-foldLeft)
 
 
 ### Chapter 10: Cheatsheet and Scala Test
