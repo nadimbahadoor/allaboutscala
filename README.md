@@ -209,6 +209,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [9: Future traverse](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#future-traverse)
 - [10: Future foldLeft](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#future-foldLeft)
 - [11: Future reduceLeft](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#future-reduceLeft)
+- [12: Future firstCompletedOf](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#future-firstCompletedOf)
 
 
 ### Chapter 10: Cheatsheet and Scala Test
