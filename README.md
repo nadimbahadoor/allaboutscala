@@ -212,6 +212,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [12: Future firstCompletedOf](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#future-firstCompletedOf)
 - [13: Future zip](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#future-zip)
 - [14: Future zipWith](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#future-zipWith)
+- [15: Future andThen](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#future-andThen)
 
 
 ### Chapter 10: Cheatsheet and Scala Test
