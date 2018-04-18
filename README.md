@@ -213,6 +213,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [13: Future zip](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#future-zip)
 - [14: Future zipWith](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#future-zipWith)
 - [15: Future andThen](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#future-andThen)
+- [16: Future configure threadpool](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#future-configure-threadpool)
 
 
 ### Chapter 10: Cheatsheet and Scala Test
