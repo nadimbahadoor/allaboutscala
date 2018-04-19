@@ -1,7 +1,6 @@
 package com.allaboutscala.chapter.nine
 
-import scala.util.control.NonFatal
-import scala.util.{Success, Failure}
+import scala.util.{Failure, Success}
 
 /**
   * Created by Nadim Bahadoor on 28/06/2016.
