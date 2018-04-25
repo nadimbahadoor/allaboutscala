@@ -216,6 +216,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [16: Future configure threadpool](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#future-configure-threadpool)
 - [17: Future recover](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#future-recover)
 - [18: Future recoverWith](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#future-recoverWith)
+- [19: Future fallbackTo](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/#future-fallbackTo)
 
 
 ### Chapter 10: Cheatsheet and Scala Test
