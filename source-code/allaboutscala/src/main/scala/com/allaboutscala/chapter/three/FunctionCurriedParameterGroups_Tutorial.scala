@@ -37,11 +37,11 @@ object FunctionCurriedParameterGroups_Tutorial extends App {
 
 
 
-  println("\nStep 3: How to create a partial function from a function with curried parameter groups")
+  println("\nStep 3: How to create a partially applied function from a function with curried parameter groups")
   val totalCostForGlazedDonuts = totalCost("Glazed Donut") _
 
 
 
-  println("\nStep 4: How to call a partial function")
+  println("\nStep 4: How to call a partially applied function")
   println(s"Total cost for Glazed Donuts ${totalCostForGlazedDonuts(10)(0.1)}")
 }
