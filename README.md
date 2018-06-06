@@ -221,8 +221,30 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 
 
 ### Chapter 10: Cheatsheet and Scala Test
-#### Collection
+### ScalaTest
+- [Introduction](http://allaboutscala.com/scala-cheatsheet/#scalatest-introduction)
+- [Add ScalaTest as dependency to build.sbt](http://allaboutscala.com/scala-cheatsheet/#add-scalatest-dependency-build.sbt)
+- [Create a test class using FlatSpec and Matchers](http://allaboutscala.com/scala-cheatsheet/#test-class-flatspec-matchers)
+- [Equality Test](http://allaboutscala.com/scala-cheatsheet/#scalatest-equality)
+- [Length Test](http://allaboutscala.com/scala-cheatsheet/#scalatest-length)
+- [Boolean Test](http://allaboutscala.com/scala-cheatsheet/#scalatest-boolean)
+- [Collection Test](http://allaboutscala.com/scala-cheatsheet/#scalatest-collection)
+
+### Collection
 - [Convert Java collection](http://allaboutscala.com/scala-cheatsheet/#convert-java-collection-to-scala)
+
+### General
+- [Add line break](http://allaboutscala.com/scala-cheatsheet/#line-separator)
+- [Convert multi-line string into single line](http://allaboutscala.com/scala-cheatsheet/#multi-line-to-single-line)
+- [Check value of an Option](http://allaboutscala.com/scala-cheatsheet/#check-option-value)
+- [Read file content as a String](http://allaboutscala.com/scala-cheatsheet/#read-file)
+- [Create enum using sealed trait](http://allaboutscala.com/scala-cheatsheet/#create-enum-sealed-trait)
+- [Int division and return float](http://allaboutscala.com/scala-cheatsheet/#int-division-scala)
+
+# Futures
+- [Cannot find an implicit ExecutionContext](http://allaboutscala.com/scala-cheatsheet/#implicit-executioncontext)
+#### Collection
+
 
 #### General
 - [Add line break](http://allaboutscala.com/scala-cheatsheet/#line-separator)
