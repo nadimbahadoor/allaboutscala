@@ -241,21 +241,9 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [Create enum using sealed trait](http://allaboutscala.com/scala-cheatsheet/#create-enum-sealed-trait)
 - [Int division and return float](http://allaboutscala.com/scala-cheatsheet/#int-division-scala)
 
-# Futures
+### Futures
 - [Cannot find an implicit ExecutionContext](http://allaboutscala.com/scala-cheatsheet/#implicit-executioncontext)
-#### Collection
 
-
-#### General
-- [Add line break](http://allaboutscala.com/scala-cheatsheet/#line-separator)
-- [Convert multi-line string into single line](http://allaboutscala.com/scala-cheatsheet/#multi-line-to-single-line)
-- [Check value of an Option](http://allaboutscala.com/scala-cheatsheet/#check-option-value)
-- [Read file content as a String](http://allaboutscala.com/scala-cheatsheet/#read-file)
-- [Create enum using sealed trait](http://allaboutscala.com/scala-cheatsheet/#create-enum-sealed-trait)
-- [Int division and return float](http://allaboutscala.com/scala-cheatsheet/#int-division-scala)
-
-#### Futures
-- [Cannot find an implicit ExecutionContext](http://allaboutscala.com/scala-cheatsheet/#implicit-executioncontext)
 
 ### Chapter 11: Learn SBT
 #### Install SBT
