@@ -229,6 +229,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [Length Test](http://allaboutscala.com/scala-cheatsheet/#scalatest-length)
 - [Boolean Test](http://allaboutscala.com/scala-cheatsheet/#scalatest-boolean)
 - [Collection Test](http://allaboutscala.com/scala-cheatsheet/#scalatest-collection)
+- [Type Test](http://allaboutscala.com/scala-cheatsheet/#scalatest-type)
 
 ### Collection
 - [Convert Java collection](http://allaboutscala.com/scala-cheatsheet/#convert-java-collection-to-scala)
