@@ -231,6 +231,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [Collection Test](http://allaboutscala.com/scala-cheatsheet/#scalatest-collection)
 - [Type Test](http://allaboutscala.com/scala-cheatsheet/#scalatest-type)
 - [Exception Test](http://allaboutscala.com/scala-cheatsheet/#scalatest-exception)
+- [Private Method Test](http://allaboutscala.com/scala-cheatsheet/#scalatest-private-method)
 
 ### Collection
 - [Convert Java collection](http://allaboutscala.com/scala-cheatsheet/#convert-java-collection-to-scala)
