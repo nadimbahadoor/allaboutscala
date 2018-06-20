@@ -354,6 +354,13 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [DataFrame Union](http://allaboutscala.com/big-data/spark/#dataframe-union)
 - [DataFrame Intersection](http://allaboutscala.com/big-data/spark/#dataframe-intersection)
 - [Append column to DataFrame using withColumn()](http://allaboutscala.com/big-data/spark/#dataframe-append-column-withcolumn-method)
+
+### Chapter 13 - Learn Akka
+#### Introduction
+- [What is Akka](http://allaboutscala.com/scala-frameworks/akka/#what-is-akka)
+- [Project setup build.sbt](http://allaboutscala.com/scala-frameworks/akka/#project-setup-build-sbt)
+
+
 Stay in touch via [Facebook](http://www.facebook.com/allaboutscala) and [Twitter](https://twitter.com/NadimBahadoor) for upcoming tutorials!
 
 
