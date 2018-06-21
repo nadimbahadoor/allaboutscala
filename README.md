@@ -360,6 +360,9 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [What is Akka](http://allaboutscala.com/scala-frameworks/akka/#what-is-akka)
 - [Project setup build.sbt](http://allaboutscala.com/scala-frameworks/akka/#project-setup-build-sbt)
 
+#### Akka Actors
+- [Actor System Introduction](http://allaboutscala.com/scala-frameworks/akka/#actor-system-introduction)
+
 
 Stay in touch via [Facebook](http://www.facebook.com/allaboutscala) and [Twitter](https://twitter.com/NadimBahadoor) for upcoming tutorials!
 
