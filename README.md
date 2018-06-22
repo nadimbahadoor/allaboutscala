@@ -363,6 +363,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 #### Akka Actors
 - [Actor System Introduction](http://allaboutscala.com/scala-frameworks/akka/#actor-system-introduction)
 - [Tell Pattern](http://allaboutscala.com/scala-frameworks/akka/#tell-pattern)
+- [Ask Pattern](http://allaboutscala.com/scala-frameworks/akka/#ask-pattern)
 
 
 Stay in touch via [Facebook](http://www.facebook.com/allaboutscala) and [Twitter](https://twitter.com/NadimBahadoor) for upcoming tutorials!
