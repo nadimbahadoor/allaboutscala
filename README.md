@@ -375,6 +375,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 
 #### Akka Routers
 - [RoundRobinPool](http://allaboutscala.com/scala-frameworks/akka/#roundrobinpool-router)
+- [ScatterGatherFirstCompletedPool](http://allaboutscala.com/scala-frameworks/akka/#scattergatherfirstcompletedpool-router)
 
 Stay in touch via [Facebook](http://www.facebook.com/allaboutscala) and [Twitter](https://twitter.com/NadimBahadoor) for upcoming tutorials!
 
