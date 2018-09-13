@@ -355,6 +355,9 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [DataFrame Intersection](http://allaboutscala.com/big-data/spark/#dataframe-intersection)
 - [Append column to DataFrame using withColumn()](http://allaboutscala.com/big-data/spark/#dataframe-append-column-withcolumn-method)
 
+#### Spark Functions
+- [Create DataFrame from Tuples](http://allaboutscala.com/big-data/spark/#create-dataframe-from-tuples)
+
 ### Chapter 13 - Learn Akka
 #### Introduction
 - [What is Akka](http://allaboutscala.com/scala-frameworks/akka/#what-is-akka)
