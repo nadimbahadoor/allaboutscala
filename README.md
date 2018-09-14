@@ -357,6 +357,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 
 #### Spark Functions
 - [Create DataFrame from Tuples](http://allaboutscala.com/big-data/spark/#create-dataframe-from-tuples)
+- [Get DataFrame column names](http://allaboutscala.com/big-data/spark/#get-dataframe-column-names)
 
 ### Chapter 13 - Learn Akka
 #### Introduction
