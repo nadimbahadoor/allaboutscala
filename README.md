@@ -359,6 +359,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [Create DataFrame from Tuples](http://allaboutscala.com/big-data/spark/#create-dataframe-from-tuples)
 - [Get DataFrame column names](http://allaboutscala.com/big-data/spark/#get-dataframe-column-names)
 - [DataFrame column names and types](http://allaboutscala.com/big-data/spark/#dataframe-column-names-and-types)
+- [Nested Json into DataFrame using explode method](http://allaboutscala.com/big-data/spark/#json-into-dataframe-using-explode-method)
 
 ### Chapter 13 - Learn Akka
 #### Introduction
