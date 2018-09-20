@@ -364,6 +364,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [Search DataFrame column using array_contains() method](http://allaboutscala.com/big-data/spark/#search-dataframe-column-using-array-contains-method)
 - [Check DataFrame column exists](http://allaboutscala.com/big-data/spark/#check-dataframe-column-exists)
 - [Split DataFrame Array column](http://allaboutscala.com/big-data/spark/#split-dataframe-array-column)
+- [Rename DataFrame column](http://allaboutscala.com/big-data/spark/#rename-dataframe-column)
 
 ### Chapter 13 - Learn Akka
 #### Introduction
