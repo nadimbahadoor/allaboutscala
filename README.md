@@ -367,6 +367,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [Rename DataFrame column](http://allaboutscala.com/big-data/spark/#rename-dataframe-column)
 - [Create DataFrame constant column](http://allaboutscala.com/big-data/spark/#create-dataframe-constant-column)
 - [DataFrame new column with User Defined Function (UDF](http://allaboutscala.com/big-data/spark/#dataframe-new-column-with-udf)
+- [DataFrame first row](http://allaboutscala.com/big-data/spark/#dataframe-first-row)
 
 ### Chapter 13 - Learn Akka
 #### Introduction
