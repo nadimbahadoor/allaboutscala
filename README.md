@@ -369,6 +369,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [DataFrame new column with User Defined Function (UDF](http://allaboutscala.com/big-data/spark/#dataframe-new-column-with-udf)
 - [DataFrame first row](http://allaboutscala.com/big-data/spark/#dataframe-first-row)
 - [Format DataFrame column](http://allaboutscala.com/big-data/spark/#format-dataframe-column)
+- [DataFrame column hashing](http://allaboutscala.com/big-data/spark/#dataframe-column-hashing)
 
 ### Chapter 13 - Learn Akka
 #### Introduction
