@@ -370,6 +370,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [DataFrame first row](http://allaboutscala.com/big-data/spark/#dataframe-first-row)
 - [Format DataFrame column](http://allaboutscala.com/big-data/spark/#format-dataframe-column)
 - [DataFrame column hashing](http://allaboutscala.com/big-data/spark/#dataframe-column-hashing)
+- [DataFrame String functions](http://allaboutscala.com/big-data/spark/#dataframe-string-functions)
 
 ### Chapter 13 - Learn Akka
 #### Introduction
