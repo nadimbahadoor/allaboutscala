@@ -371,6 +371,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [Format DataFrame column](http://allaboutscala.com/big-data/spark/#format-dataframe-column)
 - [DataFrame column hashing](http://allaboutscala.com/big-data/spark/#dataframe-column-hashing)
 - [DataFrame String functions](http://allaboutscala.com/big-data/spark/#dataframe-string-functions)
+- [DataFrame drop null](http://allaboutscala.com/big-data/spark/#dataframe-drop-null)
 
 ### Chapter 13 - Learn Akka
 #### Introduction
