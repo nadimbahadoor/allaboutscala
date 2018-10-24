@@ -402,6 +402,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [Akka Lookup Dispatcher](http://allaboutscala.com/scala-frameworks/akka/#akka-lookup-dispatcher)
 - [Fixed Thread Pool Dispatcher](http://allaboutscala.com/scala-frameworks/akka/#fixed-thread-pool-dispatcher)
 - [Resizable Thread Pool Dispatcher](http://allaboutscala.com/scala-frameworks/akka/#resizable-thread-pool)
+- [Pinned Thread Pool Dispatcher](http://allaboutscala.com/scala-frameworks/akka/#pinned-thread-pool-dispatcher)
 
 Stay in touch via [Facebook](http://www.facebook.com/allaboutscala) and [Twitter](https://twitter.com/NadimBahadoor) for upcoming tutorials!
 
