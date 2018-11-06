@@ -407,6 +407,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 #### Akka FSM
 - [Actor FSM become()](http://allaboutscala.com/scala-frameworks/akka/#actor-fsm-become)
 - [Actor FSM unbecome()](http://allaboutscala.com/scala-frameworks/akka/#actor-fsm-unbecome)
+- [Actor FSM protocol](http://allaboutscala.com/scala-frameworks/akka/#actor-fsm-protocol)
 
 Stay in touch via [Facebook](http://www.facebook.com/allaboutscala) and [Twitter](https://twitter.com/NadimBahadoor) for upcoming tutorials!
 
