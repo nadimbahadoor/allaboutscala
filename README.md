@@ -411,6 +411,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [Actor LoggingFSM](http://allaboutscala.com/scala-frameworks/akka/#actor-fsm-loggingfsm)
 - [Actor LoggingFSM Part Two](http://allaboutscala.com/scala-frameworks/akka/#actor-fsm-loggingfsm-part-two)
 - [Actor LoggingFSM Part Three](http://allaboutscala.com/scala-frameworks/akka/#actor-fsm-loggingfsm-part-three)
+- [Actor LoggingFSM Part Four](http://allaboutscala.com/scala-frameworks/akka/#actor-fsm-loggingfsm-part-four)
 
 Stay in touch via [Facebook](http://www.facebook.com/allaboutscala) and [Twitter](https://twitter.com/NadimBahadoor) for upcoming tutorials!
 
