@@ -25,7 +25,7 @@ object FunctionWithVariableArguments_Tutorial extends App {
 
   println("Step 1: How to define function which takes variable number of arguments")
   def printReport(names: String*) {
-    println(s"""Donut Report = ${names.mkString(", ")}""")
+    println(s"""Donut Report = ${names.mkString(" - ")}""")
   }
 
 
