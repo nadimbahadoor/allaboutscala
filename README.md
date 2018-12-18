@@ -418,6 +418,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 
 ### Akka TestKit
 - [Testing Actor FSM](http://allaboutscala.com/scala-frameworks/akka/#akka-testkit-test-actor-fsm)
+- [Testing Actor](http://allaboutscala.com/scala-frameworks/akka/#akka-testkit-test-actor)
 
 Stay in touch via [Facebook](http://www.facebook.com/allaboutscala) and [Twitter](https://twitter.com/NadimBahadoor) for upcoming tutorials!
 
