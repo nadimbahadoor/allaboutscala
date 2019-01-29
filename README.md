@@ -416,11 +416,11 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [Actor LoggingFSM Part Six](http://allaboutscala.com/scala-frameworks/akka/#actor-fsm-loggingfsm-part-six)
 - [Actor FSM Scheduler](http://allaboutscala.com/scala-frameworks/akka/#actor-fsm-scheduler)
 
-### Akka TestKit
+#### Akka TestKit
 - [Testing Actor FSM](http://allaboutscala.com/scala-frameworks/akka/#akka-testkit-test-actor-fsm)
 - [Testing Actor](http://allaboutscala.com/scala-frameworks/akka/#akka-testkit-test-actor)
 
-### Akka HTTP
+#### Akka HTTP
 - [Akka HTTP project setup build.sbt](http://allaboutscala.com/scala-frameworks/akka/#akka-http-project-setup-build-sbt)
 
 Stay in touch via [LinkedIn](https://www.linkedin.com/in/nadimbahadoor/), [Facebook](http://www.facebook.com/allaboutscala) and [Twitter](https://twitter.com/NadimBahadoor) for upcoming tutorials!
