@@ -422,6 +422,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 
 #### Akka HTTP
 - [Akka HTTP project setup build.sbt](http://allaboutscala.com/scala-frameworks/akka/#akka-http-project-setup-build-sbt)
+- [Start Akka HTTP Server](http://allaboutscala.com/scala-frameworks/akka/#akka-http-start-server)
 
 Stay in touch via [LinkedIn](https://www.linkedin.com/in/nadimbahadoor/), [Facebook](http://www.facebook.com/allaboutscala) and [Twitter](https://twitter.com/NadimBahadoor) for upcoming tutorials!
 
