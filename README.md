@@ -427,6 +427,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [HTTP GET JSON response](http://allaboutscala.com/scala-frameworks/akka/#akka-http-get-json-response)
 - [JSON encoding](http://allaboutscala.com/scala-frameworks/akka/#akka-http-json-encoding)
 - [JSON pretty print](http://allaboutscala.com/scala-frameworks/akka/#akka-http-json-pretty-print)
+- [HTTP POST JSON payload](http://allaboutscala.com/scala-frameworks/akka/#akka-http-post-json)
 
 Stay in touch via [LinkedIn](https://www.linkedin.com/in/nadimbahadoor/), [Facebook](http://www.facebook.com/allaboutscala) and [Twitter](https://twitter.com/NadimBahadoor) for upcoming tutorials!
 
