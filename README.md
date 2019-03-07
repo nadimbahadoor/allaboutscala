@@ -432,6 +432,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [HTTP DELETE restriction](http://allaboutscala.com/scala-frameworks/akka/#akka-http-delete-method-restriction)  
 - [Future onSuccess](http://allaboutscala.com/scala-frameworks/akka/#akka-http-future-onsuccess)
 - [Future onComplete](http://allaboutscala.com/scala-frameworks/akka/#akka-http-future-oncomplete)
+- [Complete with an HttpResponse](http://allaboutscala.com/scala-frameworks/akka/#akka-http-complete-httpresponse)
 
 Stay in touch via [LinkedIn](https://www.linkedin.com/in/nadimbahadoor/), [Facebook](http://www.facebook.com/allaboutscala) and [Twitter](https://twitter.com/NadimBahadoor) for upcoming tutorials!
 
