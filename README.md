@@ -433,6 +433,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [Future onSuccess](http://allaboutscala.com/scala-frameworks/akka/#akka-http-future-onsuccess)
 - [Future onComplete](http://allaboutscala.com/scala-frameworks/akka/#akka-http-future-oncomplete)
 - [Complete with an HttpResponse](http://allaboutscala.com/scala-frameworks/akka/#akka-http-complete-httpresponse)
+- [Try failure using an HttpResponse](http://allaboutscala.com/scala-frameworks/akka/#akka-http-try-failure-httpresponse)
 
 Stay in touch via [LinkedIn](https://www.linkedin.com/in/nadimbahadoor/), [Facebook](http://www.facebook.com/allaboutscala) and [Twitter](https://twitter.com/NadimBahadoor) for upcoming tutorials!
 
