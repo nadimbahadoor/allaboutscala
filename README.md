@@ -442,6 +442,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [Query parameter](http://allaboutscala.com/scala-frameworks/akka/#akka-http-query-parameter)
 - [Optional query parameter](http://allaboutscala.com/scala-frameworks/akka/#akka-http-optional-query-parameter)
 - [Typed query parameters](http://allaboutscala.com/scala-frameworks/akka/#akka-http-typed-query-parameters)
+- [CSV query parameter](http://allaboutscala.com/scala-frameworks/akka/#akka-http-csv-query-parameter)
 
 Stay in touch via [LinkedIn](https://www.linkedin.com/in/nadimbahadoor/), [Facebook](http://www.facebook.com/allaboutscala) and [Twitter](https://twitter.com/NadimBahadoor) for upcoming tutorials!
 
