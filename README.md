@@ -448,6 +448,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [HTTP request headers](http://allaboutscala.com/scala-frameworks/akka/#akka-http-request-headers)
 - [HTTP client GET](http://allaboutscala.com/scala-frameworks/akka/#akka-http-client-get)
 - [Unmarshal HttpResponse to case class](http://allaboutscala.com/scala-frameworks/akka/#akka-http-unmarshal-case-class)
+- [HTTP client POST JSON](http://allaboutscala.com/scala-frameworks/akka/#akka-http-client-post-json)
 
 Stay in touch via [LinkedIn](https://www.linkedin.com/in/nadimbahadoor/), [Facebook](http://www.facebook.com/allaboutscala) and [Twitter](https://twitter.com/NadimBahadoor) for upcoming tutorials!
 
