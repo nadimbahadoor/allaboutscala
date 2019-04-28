@@ -420,6 +420,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [Testing Actor FSM](http://allaboutscala.com/scala-frameworks/akka/#akka-testkit-test-actor-fsm)
 - [Testing Actor](http://allaboutscala.com/scala-frameworks/akka/#akka-testkit-test-actor)
 - [Testing Akka HTTP POST](http://allaboutscala.com/scala-frameworks/akka/#akka-testkit-http-post)
+- [Testing Query Parameter](http://allaboutscala.com/scala-frameworks/akka/#akka-testkit-query-parameter)
 
 #### Akka HTTP
 - [Akka HTTP project setup build.sbt](http://allaboutscala.com/scala-frameworks/akka/#akka-http-project-setup-build-sbt)
