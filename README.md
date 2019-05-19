@@ -461,6 +461,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [What is Apache Cassandra](http://allaboutscala.com/big-data/cassandra/#introduction)
 - [Install Apache Cassandra](http://allaboutscala.com/big-data/cassandra/#install-apache-cassandra)
 - [Using nodetool](http://allaboutscala.com/big-data/cassandra/#using-nodetool)
+- [cassandra.yaml](http://allaboutscala.com/big-data/cassandra/#cassandra.yaml)
 
 Stay in touch via [LinkedIn](https://www.linkedin.com/in/nadimbahadoor/), [Facebook](http://www.facebook.com/allaboutscala) and [Twitter](https://twitter.com/NadimBahadoor) for upcoming tutorials!
 
