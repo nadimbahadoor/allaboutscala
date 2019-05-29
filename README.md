@@ -465,6 +465,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [cqlsh](http://allaboutscala.com/big-data/cassandra/#cqlsh)
 - [Load CQL statements from file](http://allaboutscala.com/big-data/cassandra/#load-cql-statements-from-file)
 - [Partition keys](http://allaboutscala.com/big-data/cassandra/#partition-keys)
+- [Clustering keys](http://allaboutscala.com/big-data/cassandra/#clustering-keys)
 
 Stay in touch via [LinkedIn](https://www.linkedin.com/in/nadimbahadoor/), [Facebook](http://www.facebook.com/allaboutscala) and [Twitter](https://twitter.com/NadimBahadoor) for upcoming tutorials!
 
