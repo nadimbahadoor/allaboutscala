@@ -469,6 +469,7 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - [Cassandra CQL is not SQL!](http://allaboutscala.com/big-data/cassandra/#cassandra-cql-is-not-sql)
 - [Multiple clustering keys](http://allaboutscala.com/big-data/cassandra/#multiple-clustering-keys)
 - [Clustering keys restrictions](http://allaboutscala.com/big-data/cassandra/#clustering-keys-restrictions)
+- [Secondary index](http://allaboutscala.com/big-data/cassandra/#secondary-index)
 
 Stay in touch via [LinkedIn](https://www.linkedin.com/in/nadimbahadoor/), [Facebook](http://www.facebook.com/allaboutscala) and [Twitter](https://twitter.com/NadimBahadoor) for upcoming tutorials!
 
