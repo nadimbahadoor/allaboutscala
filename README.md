@@ -8,7 +8,14 @@ At www.allaboutscala.com, we provide a complete beginner's tutorial to help you 
 - Tutorials are written by taking into account the **complete beginner**.
 - Tutorials will make you proficient with the same professional **tools used by the Scala experts**.
 
-## The Tutorials
+## Get Our Books
+### Scala For Beginners
+This book provides a **step-by-step** guide for the *complete beginner* to learn Scala. It is particularly useful to *programmers*, *data scientists*, *big data engineers*, *students*, or just about anyone who wants to **get up to speed fast** with Scala (especially within an enterprise context). You get to build a real-world Scala multi-project with Akka HTTP.
+
+You can buy the book at https://leanpub.com/scalaforbeginners/
+
+
+## Our Online Tutorials
 ### Scala Introduction: A general overview of Scala
 - [1: Introduction](http://allaboutscala.com/tutorials/scala-introduction/)
 - [2: What is Scala programming language](http://allaboutscala.com/tutorials/scala-introduction/learn-scala-programming-language/)
