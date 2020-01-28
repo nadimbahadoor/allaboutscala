@@ -479,6 +479,10 @@ You can buy the book at https://leanpub.com/scalaforbeginners/
 - [Secondary index](http://allaboutscala.com/big-data/cassandra/#secondary-index)
 - [Create materialized view](http://allaboutscala.com/#chapter-14-learn-apache-cassandra)
 
+### Chapter 15 - Scala Exercises
+- [Scala Exercises](https://github.com/nadimbahadoor/scala-exercises)
+- [Scala Exercises With Solutions](http://allaboutscala.com/tutorials/scala-exercises-solutions/)
+
 Stay in touch via [LinkedIn](https://www.linkedin.com/in/nadimbahadoor/), [Facebook](http://www.facebook.com/allaboutscala) and [Twitter](https://twitter.com/NadimBahadoor) for upcoming tutorials!
 
 
