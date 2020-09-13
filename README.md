@@ -483,6 +483,9 @@ You can buy the book at https://leanpub.com/scalaforbeginners/
 - [Scala Exercises](https://github.com/nadimbahadoor/scala-exercises)
 - [Scala Exercises With Solutions](http://allaboutscala.com/tutorials/scala-exercises-solutions/)
 
+### Chapter 16 - Data Science
+- [Spark NLP Covid-19 versus The Avengers](http://allaboutscala.com/data-science/spark-nlp-covid-19/)
+
 Stay in touch via [LinkedIn](https://www.linkedin.com/in/nadimbahadoor/), [Facebook](http://www.facebook.com/allaboutscala) and [Twitter](https://twitter.com/NadimBahadoor) for upcoming tutorials!
 
 
